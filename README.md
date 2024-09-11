@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshanvikramshivadas&label=Profile%20views&color=0e75b6&style=flat" alt="darshanvikramshivadas" /> </p>
 
-- 🔭 I’m currently working on **Uber-like Auto Booking App for Kannur, Kerala**
+- 🔭 I’m currently working on **an Uber-like auto booking app for a small city in Kerala**
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Anything Football Related**
+- 💬 Ask me about **absolutely anything related to football**
 
 - 📫 How to reach me **darshanvikramshivadas@gmail.com**
 
