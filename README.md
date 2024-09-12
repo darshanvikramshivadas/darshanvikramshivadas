@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Darshan Vikram Shivadas</h1>
+<h1 align="center">Hi 👋, I'm Darshan</h1>
 <h3 align="center">An Aspiring Data Scientist from Bangalore</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2bbf3a52005319.5901123c114f4.gif">
 
